@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex-abtract", "ex-abtract.csproj", "{2AE15ADF-1B67-C74A-F6D0-A40B40890D6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abtract-ex1", "abtract-ex1.csproj", "{CE6B4EB8-8484-2FC4-D301-8BC6AC16537E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2AE15ADF-1B67-C74A-F6D0-A40B40890D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2AE15ADF-1B67-C74A-F6D0-A40B40890D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2AE15ADF-1B67-C74A-F6D0-A40B40890D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2AE15ADF-1B67-C74A-F6D0-A40B40890D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6B4EB8-8484-2FC4-D301-8BC6AC16537E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6B4EB8-8484-2FC4-D301-8BC6AC16537E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6B4EB8-8484-2FC4-D301-8BC6AC16537E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6B4EB8-8484-2FC4-D301-8BC6AC16537E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E6F920A2-8585-41EF-9FA0-BA8007137D15}
+		SolutionGuid = {417E2F07-C613-44B5-9283-DE9FE86515CF}
 	EndGlobalSection
 EndGlobal
