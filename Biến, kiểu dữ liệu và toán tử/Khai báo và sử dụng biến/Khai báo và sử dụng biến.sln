@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khai báo và sử dụng biến", "Khai báo và sử dụng biến.csproj", "{3C88D415-94A3-D4D2-121D-B4E18CC59A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C88D415-94A3-D4D2-121D-B4E18CC59A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C88D415-94A3-D4D2-121D-B4E18CC59A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C88D415-94A3-D4D2-121D-B4E18CC59A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C88D415-94A3-D4D2-121D-B4E18CC59A88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA7CB181-5578-49C5-9BFB-90BFC931B0F8}
+	EndGlobalSection
+EndGlobal
