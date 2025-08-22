@@ -81,7 +81,7 @@ public class Program
             Console.WriteLine($"Turn {currentPlayer}, choose one cell (1-9)");
             string input = Console.ReadLine();
 
-            // Sửa điều kiện thành ||
+           
             if (!int.TryParse(input, out int choice) || choice < 1 || choice > 9)
             {
                 Console.WriteLine("Your input must be from 1 to 9");
